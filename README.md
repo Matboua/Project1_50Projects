@@ -5,8 +5,12 @@
 This is my first project from the #50projects50days challenge, where I created interactive expanding cards using HTML, CSS, and JavaScript. The expanding cards change their size and reveal more content when clicked. It's a fun way to practice frontend development and improve my coding skills.
 
 ### Demo
-ctrl+click to open in a new Tab
-![Project Demo](https://matboua.github.io/Project1_50Projects/challenge1/)
+ctrl+click to open in a new Tab: 
+[Project Demo](https://matboua.github.io/Project1_50Projects/challenge1/)
+
+### Video
+
+https://github.com/Matboua/Project1_50Projects/assets/115326235/9c155fcc-07fd-4be4-9215-96b364686f55
 
 ### Technologies Used
 
